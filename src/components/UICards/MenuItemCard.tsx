@@ -1,5 +1,5 @@
 import React from 'react'
-import { CardFooter, Button, Text, Flex, Image, Stack, CardBody, Heading, HStack, Card, MenuItemProps } from "@chakra-ui/react"
+import { CardFooter, Button, Text, Image, Stack, CardBody, Heading,  Card } from "@chakra-ui/react"
 
 type MenuItemCardProps = {
   title: string,
